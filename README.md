@@ -435,3 +435,6 @@ public static boolean compare(ArrayList<poke> put, ArrayList<poke> com) {
 - **GUI框架**：Swing
 - **数据存储**：JSON文件
 - **图片处理**：ImageIcon
+
+## 作者
+**HUTB_YJJ**
