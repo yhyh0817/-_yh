@@ -440,4 +440,4 @@ public static boolean compare(ArrayList<poke> put, ArrayList<poke> com) {
 ## 作者
 **HUTB_YJJ**
 
-**特别感谢：黑马程序员阿炜老师**
+**特别感谢：黑马程序员阿玮老师**
